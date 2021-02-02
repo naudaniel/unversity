@@ -1,0 +1,37 @@
+﻿<Window x:Class="labaratorna1_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:labaratorna1_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="315.257" Width="413.051">
+    <StackPanel Margin="20">
+
+        <!-- start with title for Top Trumps card-->
+        <Label HorizontalAlignment="Stretch" Content="Топ 5 письменників - Іван Франко" BorderBrush="Black" 
+               BorderThickness="1" Background="Bisque" HorizontalContentAlignment="Center" FontWeight="Bold" />
+
+        <!-- now have image on left, scores on right -->
+        <Border BorderBrush="Black" BorderThickness="1" Margin="0,20">
+            <StackPanel Orientation="Horizontal">
+
+                <!-- image of George Orwell -->
+                <Border BorderBrush="Black" BorderThickness="1" Margin="20">
+                    <Image Width="151" Source="unnamed.jpg" Height="153"/>
+                </Border>
+                <StackPanel Margin="20" VerticalAlignment="Center" Width="142">
+
+                    <Label Content="Франко отримав Нобелівську&#xD;&#xA;премію" FontStyle="Italic" Margin="-34,0,0,20" Height="43" />
+                    <Label Content="Франко знав понад 14 мов" FontStyle="Italic" Margin="-34,0,0,20" />
+                    <Label Content="Написав близько 6000 творів" FontStyle="Italic" Margin="-34,0,0,20" />
+
+                </StackPanel>
+
+                <!-- his scores in vertical panel -->
+
+            </StackPanel>
+        </Border>
+
+    </StackPanel>
+</Window>
