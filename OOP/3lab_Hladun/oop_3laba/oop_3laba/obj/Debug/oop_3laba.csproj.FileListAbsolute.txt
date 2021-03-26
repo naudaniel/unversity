@@ -1,0 +1,11 @@
+C:\Users\Kireev Sergiy\Source\Repos\oop_3laba\oop_3laba\bin\Debug\oop_3laba.exe.config
+C:\Users\Kireev Sergiy\Source\Repos\oop_3laba\oop_3laba\bin\Debug\oop_3laba.exe
+C:\Users\Kireev Sergiy\Source\Repos\oop_3laba\oop_3laba\bin\Debug\oop_3laba.pdb
+C:\Users\Kireev Sergiy\Source\Repos\oop_3laba\oop_3laba\obj\Debug\oop_3laba.Form1.resources
+C:\Users\Kireev Sergiy\Source\Repos\oop_3laba\oop_3laba\obj\Debug\oop_3laba.Properties.Resources.resources
+C:\Users\Kireev Sergiy\Source\Repos\oop_3laba\oop_3laba\obj\Debug\oop_3laba.csproj.GenerateResource.cache
+C:\Users\Kireev Sergiy\Source\Repos\oop_3laba\oop_3laba\obj\Debug\oop_3laba.csproj.CoreCompileInputs.cache
+C:\Users\Kireev Sergiy\Source\Repos\oop_3laba\oop_3laba\obj\Debug\oop_3laba.exe
+C:\Users\Kireev Sergiy\Source\Repos\oop_3laba\oop_3laba\obj\Debug\oop_3laba.pdb
+C:\Users\Kireev Sergiy\source\repos\oop_3laba\oop_3laba\obj\Debug\oop_3laba.g.resources
+C:\Users\Kireev Sergiy\source\repos\oop_3laba\oop_3laba\obj\Debug\oop_3laba.csprojAssemblyReference.cache
